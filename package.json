@@ -1,0 +1,11 @@
+{
+  "name": "cypress-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}
